@@ -1,0 +1,57 @@
+/*<!--start navigation-menu-->*/
+h1 {
+  font-family: 'Georgia', 'Times', 'Times New Roman', 'serif'; 
+  font-variant-ligatures: 18px
+  text-align: center;  
+  padding-top: 0px;
+  padding-bottom: 0px
+  line-height: 150%;
+  margin-right: 
+}
+h2 {
+  font-family: 'Georgia', 'Times', 'Times New Roman', 'serif'; 
+  font-variant-ligatures: 18px
+  text-align: center;  
+  padding-top: 0px;
+  padding-bottom: 0px
+  line-height: 150%;
+} 
+
+li {
+    display: inline;
+    float: right;
+    font: gray;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+}
+
+.About {
+    margin: 0;
+    margin-right: 100;
+}
+
+/*<!--end navigation-menu-->*/
+
+/*<!--start of-Portfolio-and-Portfolio-Photos-->*/
+
+.container1 {
+  margin-left: 100px;
+  width: 700px;
+  height: 1000px;
+  background-color: grey;
+  border-size: 2px;
+  border-color: red; 
+  border-style: solid;
+  margin-top: 90px;
+}
+
+.Portfolio-Title {
+    margin-left: 10px;
+}
+
+hr {
+  width: 90%;
